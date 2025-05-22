@@ -28,8 +28,8 @@
             display-name = "Base";
             bindings = <
 &kp ESC    &kp N1     &kp N2        &kp N3            &kp N4         &kp N5  &tog 1                                                              &mo 3      &kp N6  &kp N7          &kp N8            &kp N9    &kp MINUS  &kp DEL
-&kp TAB    &kp Q      &kp W         &kp E             &kp R          &kp T   &kp LS(NUMBER_1)                                                    &kp N0     &kp Y   &kp U           &kp I             &kp O     &kp P      &kp BSLH
-&kp EQUAL  &kp A      &kp S         &kp D             &kp F          &kp G   &kp LS(NUMBER_2)  &kp UP    &kp DOWN       &kp LEFT  &kp RIGHT      &kp F10    &kp H   &kp J           &kp K             &kp L     &kp SEMI   &kp SQT
+&kp EQUAL  &kp Q      &kp W         &kp E             &kp R          &kp T   &kp LS(NUMBER_1)                                                    &kp N0     &kp Y   &kp U           &kp I             &kp O     &kp P      &kp BSLH
+&kp TAB    &kp A      &kp S         &kp D             &kp F          &kp G   &kp LS(NUMBER_2)  &kp UP    &kp DOWN       &kp LEFT  &kp RIGHT      &kp F10    &kp H   &kp J           &kp K             &kp L     &kp SEMI   &kp SQT
 &kp LSHFT  &kp Z      &kp X         &kp C             &kp V          &kp B                               &kp RIGHT      &kp UP                              &kp N   &kp M           &kp COMMA         &kp DOT   &kp FSLH   &kp RSHFT
 &mo 2      &kp GRAVE  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LEFT_META          &kp SPACE         &kp CAPS  &kp LEFT       &kp DOWN  &kp BACKSPACE  &kp ENTER          &kp RIGHT_META  &kp RS(NUMBER_3)  &kp LBKT  &kp RBKT   &mo 2
             >;
